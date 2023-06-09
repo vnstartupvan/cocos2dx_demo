@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>pfs_reward/coin_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{54,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{54,56}</string>
+			</dict>
+			<key>pfs_reward/coin_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,297},{39,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,56}</string>
+			</dict>
+			<key>pfs_reward/coin_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,531},{21,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,54}</string>
+			</dict>
+			<key>pfs_reward/coin_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,473},{24,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,54}</string>
+			</dict>
+			<key>pfs_reward/coin_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,238},{41,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,56}</string>
+			</dict>
+			<key>pfs_reward/coin_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,61},{52,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,56}</string>
+			</dict>
+			<key>pfs_reward/coin_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,179},{46,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,56}</string>
+			</dict>
+			<key>pfs_reward/coin_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,415},{31,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,56}</string>
+			</dict>
+			<key>pfs_reward/coin_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,356},{33,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,56}</string>
+			</dict>
+			<key>pfs_reward/coin_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,120},{47,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,56}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>pfs_reward.png</string>
+			<key>realTextureFileName</key>
+			<string>pfs_reward.png</string>
+			<key>size</key>
+			<string>{58,587}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>58</integer>
+			<key>height</key>
+			<integer>587</integer>
+		</dict>
+	</dict>
+</plist>

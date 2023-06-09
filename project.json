@@ -1,0 +1,31 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/game/constants.js",
+        "src/game/classes/global_func.js",
+        "src/game/layers/background.js",
+        "src/game/layers/demo.js",
+        "src/game/layers/animateCoin.js",
+        "src/game/sprites/background.js",
+        "src/game/sprites/animateSprite.js",
+        "src/game/sprites/coinAnimate.js",
+        "src/game/sprites/fishGunSprite.js",
+        "src/game/components/Menu/menu.js",
+        "src/game/components/Menu/menuItemFont.js",
+        "src/game/scenes/demo.js",
+        "src/game/utils/utils.js"
+    ]
+}

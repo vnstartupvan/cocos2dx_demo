@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>sprite_sheet/dots_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{514,75},{68,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,74}</string>
+			</dict>
+			<key>sprite_sheet/dots_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{177,2},{73,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{73,85}</string>
+			</dict>
+			<key>sprite_sheet/dots_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{266,2},{73,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{73,80}</string>
+			</dict>
+			<key>sprite_sheet/dots_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,92},{80,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,80}</string>
+			</dict>
+			<key>sprite_sheet/dots_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{514,2},{69,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{69,78}</string>
+			</dict>
+			<key>sprite_sheet/dots_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{596,2},{71,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{71,75}</string>
+			</dict>
+			<key>sprite_sheet/dots_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{78,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,86}</string>
+			</dict>
+			<key>sprite_sheet/dots_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,2},{71,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{71,78}</string>
+			</dict>
+			<key>sprite_sheet/dots_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{86,76},{73,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{73,82}</string>
+			</dict>
+			<key>sprite_sheet/dots_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,2},{71,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{71,78}</string>
+			</dict>
+			<key>sprite_sheet/dots_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,2},{70,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,89}</string>
+			</dict>
+			<key>sprite_sheet/dots_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,77},{67,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{67,73}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dot.png</string>
+			<key>realTextureFileName</key>
+			<string>dot.png</string>
+			<key>size</key>
+			<string>{1024,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

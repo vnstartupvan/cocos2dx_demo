@@ -1,0 +1,1 @@
+dots_86x90_01.png.png 9 11, dots_86x90_02.png.png 92 4, dots_86x90_03.png.png 178 8, dots_86x90_04.png.png 258 8, dots_86x90_05.png.png 353 9, dots_86x90_06.png.png 438 10, dots_86x90_07.png.png 524 4, dots_86x90_08.png.png 609 10, dots_86x90_09.png.png 694 8, dots_86x90_10.png.png 781 10, dots_86x90_11.png.png 868 0, dots_86x90_12.png.png 9 104.
